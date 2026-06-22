@@ -32,10 +32,6 @@ app/build/
 # Keystore (IMPORTANT - Never commit these!)
 keystore.txt
 
-# Gradle
-gradle-wrapper.jar
-/gradle/wrapper/gradle-wrapper.jar
-
 # Built application files
 *.apk
 *.aab
