@@ -1,0 +1,52 @@
+{
+  "location": {
+    "lat": -1.3005272,
+    "lon": 36.824646,
+    "timezone": "Africa/Nairobi",
+    "country": "KE"
+  },
+  "current": {
+    "time": "2026-06-21T17:15",
+    "temperature": 22.5,
+    "wind_speed": 13.8,
+    "wind_direction": 53,
+    "condition_code": "1",
+    "icon": "https://cdn.weather-ai.co/icons/default/1_mainly_clear_day.svg",
+    "humidity": 41,
+    "feels_like": 21.6
+  },
+  "daily": [
+    {
+      "date": "2026-06-21",
+      "temp_min": 14.6,
+      "temp_max": 23.7,
+      "precipitation_sum": 0.6,
+      "precipitation_probability": 45,
+      "wind_max": 14.1,
+      "condition_code": "51",
+      "icon": "https://cdn.weather-ai.co/icons/default/51_drizzle_light_day.svg",
+      "sunrise": "2026-06-21T06:33",
+      "sunset": "2026-06-21T18:35"
+    }
+  ],
+  "insights": {
+    "summary": "The weather in Nairobi shows a mix of conditions. The next few days feature moderate temperatures with some rainfall expected mid-week. The best time for outdoor activities is Monday morning, with clear skies and comfortable temperatures around 18°C.",
+    "agronomic_context": {
+      "crop_friendliness": "Good for most crops but monitor rainfall levels",
+      "soil_moisture_trend": "Increasing mid-week, may require drainage",
+      "pest_risk": "Moderate - humid conditions may encourage fungal growth"
+    },
+    "risk_flags": [
+      {
+        "type": "rain",
+        "severity": "moderate",
+        "description": "Heavy rain expected on Wednesday. Protect young plants."
+      }
+    ],
+    "recommendations": [
+      "Apply fungicides before Wednesday to prevent infection",
+      "Irrigate lightly on Monday to prepare for dry spell",
+      "Delay planting until Thursday when conditions stabilize"
+    ]
+  }
+}

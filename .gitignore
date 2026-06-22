@@ -1,0 +1,59 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio
+.gradle/
+.idea/
+build/
+app/build/
+*.hprof
+.caches/
+.cxx/
+.assetCompilationData/
+.navigation/
+.settings/
+.vscode/
+*.keystore
+*.jks
+
+# Keystore (IMPORTANT - Never commit these!)
+keystore.txt
+
+# Gradle
+gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.jar
+
+# Built application files
+*.apk
+*.aab
+*.dex
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# OSX
+*.DS_Store
+Thumbs.db
+
+# Firebase
+google-services.json
+
+# Environment
+.env
+*.properties
