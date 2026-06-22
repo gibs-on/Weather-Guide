@@ -52,4 +52,3 @@ google-services.json
 
 # Environment
 .env
-*.properties
