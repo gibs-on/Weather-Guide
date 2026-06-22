@@ -15,20 +15,16 @@ WeatherAI Compass is an intelligent weather application that transforms raw weat
 <div align="center">
   <table>
     <tr>
-      <td><img src="screenshots/onboarding.jpeg" width="738" alt="Onboarding"/></td>
-      <td><img src="screenshots/home.jpeg" width="738" alt="Home Screen"/></td>
-      <td><img src="screenshots/premium.jpeg" width="738" alt="Premium Features"/></td>
-      <td><img src="screenshots/paywall.jpeg" width="738" alt="Paywall"/></td>
+      <td><img src="screenshots/onboarding.jpeg" width="250" alt="Onboarding"/></td>
+      <td><img src="screenshots/home.jpeg" width="250" alt="Home Screen"/></td>
+      <td><img src="screenshots/premium.jpeg" width="250" alt="Premium Features"/></td>
+      <td><img src="screenshots/paywall.jpeg" width="250" alt="Paywall"/></td>
     </tr>
     <tr>
-      <td align="center"><b>Home Screen</b><br/>Current weather & 7-day forecast</td>
-      <td align="center"><b>Premium Features</b><br/>À la carte unlocks</td>
-      <td align="center"><b>Harvest Advisor</b><br/>Planting, Spraying, Harvesting scores</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Adventure Scout</b><br/>Hiking, Skiing, Surfing rankings</td>
-      <td align="center"><b>Event Advisor</b><br/>Best hour for outdoor events</td>
-      <td align="center"><b>AI Strategy</b><br/>AI-powered insights</td>
+      <td align="center"><b>Onboarding</b></td>
+      <td align="center"><b>Home Screen</b></td>
+      <td align="center"><b>Premium Features</b></td>
+      <td align="center"><b>Paywall</b></td>
     </tr>
   </table>
 </div>
